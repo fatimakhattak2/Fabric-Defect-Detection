@@ -1,6 +1,3 @@
-# Fabric-Defect-Detection
-An AI system for automatic fabric defect detection and classification using images
-
 # 🧵 Fabric Defect Detection using CNN
 
 This project is an AI-based solution for detecting fabric defects from images using a Convolutional Neural Network (CNN). It automates quality inspection in textile manufacturing by classifying fabric images into "Good" or "Defective" categories.
